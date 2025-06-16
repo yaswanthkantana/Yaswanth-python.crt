@@ -1,0 +1,30 @@
+write a python program the multiplication table from 1 to n
+
+write a python program to print the reverse multiplication table of n
+
+write a python program to print the reverse multiplication table from 1 to n 
+
+write a python program to print the reverse multiplication tables from n to 1
+
+write a python program 
+a) to print natural numbers from 1 to n
+b) to print natural numbers from n to 1
+c) print the squares numbers from 1 to n and n to 1
+d) print the cubes numbers from the 1 to n and n to 1
+
+
+write a python program to take as input and count the no of digits
+sample input = 18715
+output has 5 digits also find for the negative numbers
+
+write a python program to reads the integer value as input from the user and find the summation of the digits
+
+write a python program to read an input as integer and print the no of even digit and odd digit present In that particular number
+
+write a python program to read an input from the user then find the summation of even digits and odd digit present in that particular number
+
+write a python program to read an integer value from the user to find the no of zeros present in the user enter number
+
+
+print multiplication table from n to 1 and resvers them
+

@@ -1,0 +1,18 @@
+def count_even_odd_digits(number):
+    even_count = 0
+    odd_count = 0
+    
+    for digit in str(abs(number)):  # Convert number to string for easy iteration
+        if int(digit) % 2 == 0:
+            even_count += 1
+        else:
+            odd_count += 1
+    
+    return even_count, odd_count
+
+# Read input from the user
+num = int(input("Enter an integer: "))
+even_digits, odd_digits = count_even_odd_digits(num)
+
+print(f"Number of even digits: {even_digits}")
+print(f"Number of odd digits: {odd_digits}")
